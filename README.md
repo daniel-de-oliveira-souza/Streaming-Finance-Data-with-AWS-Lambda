@@ -1,8 +1,8 @@
-# Streaming Finance Data with AWS Lambda
+# Streaming Finance Data with AWS Lambda
 
 The goal of this project is to provision a AWS Lambda function to generate finance data for downstreaming processing in near real time. 
 
- ![STA9760F2020_ Project 3 Diagram](/Users/danisouza/Downloads/STA9760F2020_ Project 3 Diagram.jpg)
+<img width="924" alt="Screen Shot 2021-06-03 at 4 04 18 PM" src="https://user-images.githubusercontent.com/60671004/120705089-5b83f080-c485-11eb-8a52-769edf87a207.png">
 
 First, I have created a AWS Lambda function called Data Collector, to collect one full day's worth of stock HIGH and LOW prices for each of the companies listed below, on Tuesday, May 11th, 2021. This function transforms the stock data into a JSON format. Once transformed, the data is streamlined into a S3 bucket.
 
