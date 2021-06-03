@@ -1,7 +1,7 @@
 # Streaming Finance Data with AWS Lambda
 ## Provisioning a AWS Lambda function to generate finance data for downstreaming processing in near real time. 
 
-This project consists of three major infrastructure elements that work in tandem:
+This project consists of three major infrastructure elements that work simultaneously:
 - A lambda function that gathers our data (DataTransformer)
 - A Kinesis stream that holds our data (DataCollector)
 - A serverless process that allows us to query our S3 data (DataAnalyzer)
