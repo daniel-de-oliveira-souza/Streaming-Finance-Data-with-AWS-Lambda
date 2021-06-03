@@ -27,8 +27,8 @@ Lastly, but not least, I took advantage of a Jupyter Notebook to create a few vi
 
 ## Data Collector Lambda Configuration
 
-![Screen Shot 2021-05-20 at 9.36.37 PM](/Users/danisouza/Library/Application Support/typora-user-images/Screen Shot 2021-05-20 at 9.36.37 PM.png)
+<img width="792" alt="Screen Shot 2021-05-20 at 9 36 37 PM" src="https://user-images.githubusercontent.com/60671004/120705302-a9005d80-c485-11eb-92e6-3b5f7540b5a9.png">
 
 ## Kinesis Firehose Delivery Stream Monitoring
 
-![Screen Shot 2021-05-20 at 9.36.07 PM](/Users/danisouza/Library/Application Support/typora-user-images/Screen Shot 2021-05-20 at 9.36.07 PM.png)
+<img width="1243" alt="Screen Shot 2021-05-20 at 9 36 07 PM" src="https://user-images.githubusercontent.com/60671004/120705315-adc51180-c485-11eb-882e-c5659ca06a71.png">
